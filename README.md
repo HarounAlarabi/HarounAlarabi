@@ -29,7 +29,7 @@ I'm Haroun, a software engineer based in London. I'm passionate about building h
 ## Stats
 
 <a href="https://github.com/HarounAlarabi/HarounAlarabi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aHarounAlarabi&hide_rank=true&show_icons=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HarounAlarabi&hide_rank=true&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/HarounAlarabi/HarounAlarabi">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarounAlarabi&layout=compact&langs_count=8&hide_border=true" />
