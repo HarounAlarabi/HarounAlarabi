@@ -5,7 +5,7 @@ Here is a draft About page for your GitHub profile:
 
 ## Hi there 👋
 
-I'm Haroun, a software engineer based in London. I'm passionate about building high-quality applications and learning new technologies.
+I'm Haroun, a software engineer based in Glasgow. I'm passionate about building high-quality applications and learning new technologies.
 - 📝 Check out my [resume]( )
 
 
